@@ -18,4 +18,9 @@ First, loading and viewing the dataset. We find that since this data is confiden
 
 ```Obtained Results :```
 
+### Histplot:
 ![Image of Histplot](https://github.com/samarth3557/LetsGrowMore---SEPTEMBER-2021/blob/main/DS_TASK_1/Images/Histogram.png)
+
+### Pair Plot:
+
+![Image of Pairplot](https://github.com/samarth3557/LetsGrowMore---SEPTEMBER-2021/blob/main/DS_TASK_1/Images/Pairplot.png)
